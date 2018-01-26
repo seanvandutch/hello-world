@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Following along with the hello world repository set up.
+Following along with the hello world repository set up!
